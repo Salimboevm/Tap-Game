@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: 80c2719e812667d47a754bfd3446d793
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Museo Cyrl
+  fontNames:
+  - Museo Cyrl
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 57ec4020b9a76ae46a25a5d5b7c3ea7b, type: 3}
+  - {fileID: 12800000, guid: 21345613c6fc95b42917305c40f0e0c5, type: 3}
+  - {fileID: 12800000, guid: 2cc82e43fb9432e41bf62168d5978723, type: 3}
+  - {fileID: 12800000, guid: 757b007944dad764e9f9b1eccae94789, type: 3}
+  - {fileID: 12800000, guid: 07b45aff512285c459f923c5078ff84f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
